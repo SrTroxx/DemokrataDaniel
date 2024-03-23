@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qmntRJldWjIUzVxG3swABwIJ7VjE4ijZzztd2lHADxGG1hlv8S3+LKW0yWxMtX9Rpe7KkMQDu5hNwa2j/IODlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DanielG\\Desktop\\DemoKrata\\src\\BaseApi.SharedKernel\\BaseApi.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielG\\.nuget\\packages\\ardalis.specification\\5.2.0\\ardalis.specification.5.2.0.nupkg.sha512",
+    "C:\\Users\\DanielG\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

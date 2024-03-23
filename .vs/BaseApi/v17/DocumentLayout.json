@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DanielG\\Desktop\\DemoKrata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB085427-C9EB-406C-B1D1-A162FB4423DB}|src\\BaseApi.Api\\BaseApi.Api.csproj|c:\\users\\danielg\\desktop\\demokrata\\src\\baseapi.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB085427-C9EB-406C-B1D1-A162FB4423DB}|src\\BaseApi.Api\\BaseApi.Api.csproj|solutionrelative:src\\baseapi.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220361D6-9C76-4E3F-BD34-3C7B50E2CA4D}|src\\BaseApi.Infrastructure\\BaseApi.Infrastructure.csproj|c:\\users\\danielg\\desktop\\demokrata\\src\\baseapi.infrastructure\\data\\config\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220361D6-9C76-4E3F-BD34-3C7B50E2CA4D}|src\\BaseApi.Infrastructure\\BaseApi.Infrastructure.csproj|solutionrelative:src\\baseapi.infrastructure\\data\\config\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\BaseApi.Core\\BaseApi.Core.csproj|c:\\users\\danielg\\desktop\\demokrata\\src\\baseapi.core\\projectaggregate\\dto\\usuariosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\BaseApi.Core\\BaseApi.Core.csproj|solutionrelative:src\\baseapi.core\\projectaggregate\\dto\\usuariosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\BaseApi.Core\\BaseApi.Core.csproj|c:\\users\\danielg\\desktop\\demokrata\\src\\baseapi.core\\projectaggregate\\specifications\\getusernamelastnamespec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\BaseApi.Core\\BaseApi.Core.csproj|solutionrelative:src\\baseapi.core\\projectaggregate\\specifications\\getusernamelastnamespec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\BaseApi.Core\\BaseApi.Core.csproj|c:\\users\\danielg\\desktop\\demokrata\\src\\baseapi.core\\projectaggregate\\entities\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\BaseApi.Core\\BaseApi.Core.csproj|solutionrelative:src\\baseapi.core\\projectaggregate\\entities\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\BaseApi.Core\\BaseApi.Core.csproj|c:\\users\\danielg\\desktop\\demokrata\\src\\baseapi.core\\services\\usuariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\BaseApi.Core\\BaseApi.Core.csproj|solutionrelative:src\\baseapi.core\\services\\usuariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\BaseApi.Core\\BaseApi.Core.csproj|c:\\users\\danielg\\desktop\\demokrata\\src\\baseapi.core\\interfaces\\iusuariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\BaseApi.Core\\BaseApi.Core.csproj|solutionrelative:src\\baseapi.core\\interfaces\\iusuariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUsuariosService.cs",
+              "DocumentMoniker": "C:\\Users\\DanielG\\Desktop\\DemoKrata\\src\\BaseApi.Core\\Interfaces\\IUsuariosService.cs",
+              "RelativeDocumentMoniker": "src\\BaseApi.Core\\Interfaces\\IUsuariosService.cs",
+              "ToolTip": "C:\\Users\\DanielG\\Desktop\\DemoKrata\\src\\BaseApi.Core\\Interfaces\\IUsuariosService.cs",
+              "RelativeToolTip": "src\\BaseApi.Core\\Interfaces\\IUsuariosService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:39:58.789Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\DanielG\\Desktop\\DemoKrata\\src\\BaseApi.Core\\ProjectAggregate\\Entities\\Usuarios.cs",
+              "RelativeDocumentMoniker": "src\\BaseApi.Core\\ProjectAggregate\\Entities\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\DanielG\\Desktop\\DemoKrata\\src\\BaseApi.Core\\ProjectAggregate\\Entities\\Usuarios.cs",
+              "RelativeToolTip": "src\\BaseApi.Core\\ProjectAggregate\\Entities\\Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T06:23:05.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetUserNameLastNameSpec.cs",
+              "DocumentMoniker": "C:\\Users\\DanielG\\Desktop\\DemoKrata\\src\\BaseApi.Core\\ProjectAggregate\\Specifications\\GetUserNameLastNameSpec.cs",
+              "RelativeDocumentMoniker": "src\\BaseApi.Core\\ProjectAggregate\\Specifications\\GetUserNameLastNameSpec.cs",
+              "ToolTip": "C:\\Users\\DanielG\\Desktop\\DemoKrata\\src\\BaseApi.Core\\ProjectAggregate\\Specifications\\GetUserNameLastNameSpec.cs",
+              "RelativeToolTip": "src\\BaseApi.Core\\ProjectAggregate\\Specifications\\GetUserNameLastNameSpec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T06:08:23.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DanielG\\Desktop\\DemoKrata\\src\\BaseApi.Core\\ProjectAggregate\\DTO\\UsuariosDTO.cs",
+              "RelativeDocumentMoniker": "src\\BaseApi.Core\\ProjectAggregate\\DTO\\UsuariosDTO.cs",
+              "ToolTip": "C:\\Users\\DanielG\\Desktop\\DemoKrata\\src\\BaseApi.Core\\ProjectAggregate\\DTO\\UsuariosDTO.cs",
+              "RelativeToolTip": "src\\BaseApi.Core\\ProjectAggregate\\DTO\\UsuariosDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T05:38:09.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuariosService.cs",
+              "DocumentMoniker": "C:\\Users\\DanielG\\Desktop\\DemoKrata\\src\\BaseApi.Core\\Services\\UsuariosService.cs",
+              "RelativeDocumentMoniker": "src\\BaseApi.Core\\Services\\UsuariosService.cs",
+              "ToolTip": "C:\\Users\\DanielG\\Desktop\\DemoKrata\\src\\BaseApi.Core\\Services\\UsuariosService.cs",
+              "RelativeToolTip": "src\\BaseApi.Core\\Services\\UsuariosService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAD4v08AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T05:37:41.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DanielG\\Desktop\\DemoKrata\\src\\BaseApi.Infrastructure\\Data\\Config\\ClientConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\BaseApi.Infrastructure\\Data\\Config\\ClientConfiguration.cs",
+              "ToolTip": "C:\\Users\\DanielG\\Desktop\\DemoKrata\\src\\BaseApi.Infrastructure\\Data\\Config\\ClientConfiguration.cs",
+              "RelativeToolTip": "src\\BaseApi.Infrastructure\\Data\\Config\\ClientConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:13:06.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\DanielG\\Desktop\\DemoKrata\\src\\BaseApi.Api\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "src\\BaseApi.Api\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\DanielG\\Desktop\\DemoKrata\\src\\BaseApi.Api\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "src\\BaseApi.Api\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:10:04.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

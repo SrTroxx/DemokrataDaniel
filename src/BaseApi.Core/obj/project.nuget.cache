@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "rViHEPnA3oIVTaay1nI56fGvzCHpBCMlLAf9Txb+0DxifkjDgJPhNgFimwwLsnY3/KPLBKj+6lEIbQIWGW8sQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DanielG\\Desktop\\DemoKrata\\src\\BaseApi.Core\\BaseApi.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielG\\.nuget\\packages\\ardalis.guardclauses\\3.3.0\\ardalis.guardclauses.3.3.0.nupkg.sha512",
+    "C:\\Users\\DanielG\\.nuget\\packages\\ardalis.result\\3.1.2\\ardalis.result.3.1.2.nupkg.sha512",
+    "C:\\Users\\DanielG\\.nuget\\packages\\ardalis.specification\\5.2.0\\ardalis.specification.5.2.0.nupkg.sha512",
+    "C:\\Users\\DanielG\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\DanielG\\.nuget\\packages\\jetbrains.annotations\\2021.2.0\\jetbrains.annotations.2021.2.0.nupkg.sha512",
+    "C:\\Users\\DanielG\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\DanielG\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

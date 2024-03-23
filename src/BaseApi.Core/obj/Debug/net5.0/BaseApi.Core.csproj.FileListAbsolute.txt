@@ -1,0 +1,5 @@
+C:\Users\droid\Desktop\Creando\BaseApi\src\BaseApi.Core\obj\Debug\net5.0\BaseApi.Core.csproj.AssemblyReference.cache
+C:\Users\droid\Desktop\Creando\BaseApi\src\BaseApi.Core\obj\Debug\net5.0\BaseApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\droid\Desktop\Creando\BaseApi\src\BaseApi.Core\obj\Debug\net5.0\BaseApi.Core.AssemblyInfoInputs.cache
+C:\Users\droid\Desktop\Creando\BaseApi\src\BaseApi.Core\obj\Debug\net5.0\BaseApi.Core.AssemblyInfo.cs
+C:\Users\droid\Desktop\Creando\BaseApi\src\BaseApi.Core\obj\Debug\net5.0\BaseApi.Core.csproj.CoreCompileInputs.cache
